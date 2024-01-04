@@ -13,6 +13,7 @@
 # Confirmed current directory, created and accessed folder "rocket"
 
 > pwd
+
 > /root
 
 > mkdir rocket
